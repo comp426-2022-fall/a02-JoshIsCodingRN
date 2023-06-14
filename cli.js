@@ -1,4 +1,4 @@
-I'm#!/usr/bin/env nodenode
+#!/usr/bin/env node
 //const tz = require ('moment-timezone')
 import mt from 'moment-timezone';
 const args = process.argv.slice(2)
